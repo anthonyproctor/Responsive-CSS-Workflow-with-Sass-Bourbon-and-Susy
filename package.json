@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Carrie Dils",
+  "author": "Anthony Proctor",
   "license": "ISC",
   "devDependencies": {
     "grunt": "~1.0.1",
@@ -17,5 +17,13 @@
   },
   "dependencies": {
     "jquery": "^3.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyproctor/Responsive-CSS-Workflow-with-Sass-Bourbon-and-Susy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anthonyproctor/Responsive-CSS-Workflow-with-Sass-Bourbon-and-Susy/issues"
+  },
+  "homepage": "https://github.com/anthonyproctor/Responsive-CSS-Workflow-with-Sass-Bourbon-and-Susy#readme"
 }
